@@ -1,0 +1,4 @@
+Add the following to your Config.py file
+
+tidehand = 'images/tidehand.png'
+tidestation = '8661070'  #NOAA tide station
